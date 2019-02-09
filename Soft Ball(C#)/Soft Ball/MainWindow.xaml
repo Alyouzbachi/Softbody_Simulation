@@ -41,7 +41,6 @@
         <TextBox x:Name="final_p_textBox" HorizontalAlignment="Left" Height="22" Margin="108,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.229,1.196" IsEnabled="False" Text="{Binding Value, ElementName=fpSlider}"/>
         <Label Content="Final pressure" HorizontalAlignment="Right" Margin="0,236,787,0" VerticalAlignment="Top" Width="118"/>
         <Slider x:Name="fpSlider" HorizontalAlignment="Left" Margin="262,244,0,0" VerticalAlignment="Top" Width="139" Maximum="99" LargeChange="0.1" SmallChange="10" Value="99" Minimum="1"/>
-        <Label Content="                         BY Students :&#xA;&#xA;HAZEM  Joha                      YAZAN  Youzbashi&#xA;&#xA; &#xA;NAZEER  Kawas                  RAMY  Horia" HorizontalAlignment="Left" Margin="507,236,0,-24" VerticalAlignment="Top" Height="138" Grid.RowSpan="2" Width="363"/>
 
     </Grid>
 </Window>
