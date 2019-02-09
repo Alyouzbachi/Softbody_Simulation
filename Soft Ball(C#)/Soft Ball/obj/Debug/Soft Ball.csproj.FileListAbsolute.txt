@@ -1,0 +1,55 @@
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\bin\Debug\Soft Ball.exe.config
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\Soft Ball.exe
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\Soft Ball.pdb
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\bin\Debug\Soft Ball.exe
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\bin\Debug\Soft Ball.pdb
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\Soft Ball.csprojResolveAssemblyReference.cache
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\MainWindow.baml
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\MainWindow.g.cs
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\App.g.cs
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\Soft Ball_MarkupCompile.cache
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\Soft Ball.g.resources
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\Soft_Ball.Properties.Resources.resources
+C:\Users\HAZEM\Documents\Visual Studio 2012\Projects\Soft Ball\Soft Ball\obj\Debug\Soft Ball.csproj.GenerateResource.Cache
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\bin\Debug\Soft Ball.exe.config
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\Soft Ball.exe
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\Soft Ball.pdb
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\bin\Debug\Soft Ball.exe
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\bin\Debug\Soft Ball.pdb
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\Soft Ball.csprojResolveAssemblyReference.cache
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\MainWindow.baml
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\MainWindow.g.cs
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\App.g.cs
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\Soft Ball_MarkupCompile.cache
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\Soft Ball.g.resources
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\Soft_Ball.Properties.Resources.resources
+C:\Users\HAZEM\Desktop\Soft Ball\Soft Ball\obj\Debug\Soft Ball.csproj.GenerateResource.Cache
+C:\Users\HAZEM\Desktop\Soft Ball(C#)\Soft Ball\bin\Debug\Soft Ball.exe.config
+C:\Users\HAZEM\Desktop\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.exe
+C:\Users\HAZEM\Desktop\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.pdb
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\bin\Debug\Soft Ball.exe.config
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.exe
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.pdb
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\bin\Debug\Soft Ball.exe
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\bin\Debug\Soft Ball.pdb
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.csprojResolveAssemblyReference.cache
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\MainWindow.baml
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\MainWindow.g.cs
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\App.g.cs
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball_MarkupCompile.cache
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.g.resources
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft_Ball.Properties.Resources.resources
+D:\college\third year\first semester\scientfic calculations\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.csproj.GenerateResource.Cache
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\bin\Debug\Soft Ball.exe.config
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.exe
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.pdb
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\bin\Debug\Soft Ball.exe
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\bin\Debug\Soft Ball.pdb
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.csprojResolveAssemblyReference.cache
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\MainWindow.baml
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\MainWindow.g.cs
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\App.g.cs
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball_MarkupCompile.cache
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.g.resources
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft_Ball.Properties.Resources.resources
+C:\Users\Yazan\Desktop\New folder\المشروع النهائي\Soft Ball(C#)\Soft Ball\obj\Debug\Soft Ball.csproj.GenerateResource.Cache
